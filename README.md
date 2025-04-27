@@ -2,7 +2,14 @@
 
 ## Planning algorithm
 
-[Conflict-Based Search)](./docs/cbs.md)
+[Conflict-Based Search](./docs/cbs.md)
+
+## research
+
+### conflict
+
+- [bezier](./conflict/bezier.ipynb)
+
 
 ## Reference
 
