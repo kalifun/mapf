@@ -2,7 +2,8 @@
 
 ## Planning algorithm
 
-[Conflict-Based Search](./docs/cbs.md)
+[Conflict-Based Search](./docs/cbs.md)  
+[Enhanced Conflict-Based Search](./docs/cbs.md)
 
 ## research
 
